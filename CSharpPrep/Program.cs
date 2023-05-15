@@ -10,9 +10,25 @@ namespace CSharpPrep {
             // constants
             const double pi = 3.1415434;
 
-            Console.WriteLine(pi);
+            double b = Convert.ToInt32(pi);
+            int c = 123;
+            double d = Convert.ToDouble(c) + 0.1;
+
+            String f = Convert.ToString(d);
+
+            Console.WriteLine(b.GetType());
+            Console.WriteLine(f.GetType());
+            Console.WriteLine(d);
+            String g = "$";
+            char gChar = Convert.ToChar(g);
+
+
+
+            Console.WriteLine(b);
 
             Console.ReadKey();
+
+
 
         }
     }
