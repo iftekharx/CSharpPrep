@@ -1,0 +1,15 @@
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\bin\Debug\net6.0\CSharpPrep.exe
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\bin\Debug\net6.0\CSharpPrep.deps.json
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\bin\Debug\net6.0\CSharpPrep.runtimeconfig.json
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\bin\Debug\net6.0\CSharpPrep.dll
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\bin\Debug\net6.0\CSharpPrep.pdb
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\obj\Debug\net6.0\CSharpPrep.csproj.AssemblyReference.cache
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\obj\Debug\net6.0\CSharpPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\obj\Debug\net6.0\CSharpPrep.AssemblyInfoInputs.cache
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\obj\Debug\net6.0\CSharpPrep.AssemblyInfo.cs
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\obj\Debug\net6.0\CSharpPrep.csproj.CoreCompileInputs.cache
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\obj\Debug\net6.0\CSharpPrep.dll
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\obj\Debug\net6.0\refint\CSharpPrep.dll
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\obj\Debug\net6.0\CSharpPrep.pdb
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\obj\Debug\net6.0\CSharpPrep.genruntimeconfig.cache
+C:\Users\docto\OneDrive\Documents\CSharpProjects\CSharpPrep\obj\Debug\net6.0\ref\CSharpPrep.dll
