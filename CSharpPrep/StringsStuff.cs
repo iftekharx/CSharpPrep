@@ -8,7 +8,7 @@ namespace CSharpPrep
 {
     internal class StringsStuff
     {
-        static void Main(String[] args) {
+        /*static void Main(String[] args) {
             String fullName = "Code Star";
             String phoneNumber = "123-456-78";
 
@@ -28,6 +28,6 @@ namespace CSharpPrep
             Console.WriteLine(fname);
 
             Console.ReadKey();
-        }
+        }*/
     }
 }
