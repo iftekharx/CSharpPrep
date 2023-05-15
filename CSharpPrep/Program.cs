@@ -3,7 +3,7 @@
 namespace CSharpPrep { 
     class Program
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
 
             // String, double, int, bool, char data types in C#
@@ -21,6 +21,15 @@ namespace CSharpPrep {
             Console.WriteLine(d);
             String g = "$";
             char gChar = Convert.ToChar(g);
+            String label = "true";
+            bool labelBool = Convert.ToBoolean(label);
+
+
+            String name = Console.ReadLine();
+            Console.WriteLine(name);
+
+
+
 
 
 
@@ -30,6 +39,6 @@ namespace CSharpPrep {
 
 
 
-        }
+        }*/
     }
 }
