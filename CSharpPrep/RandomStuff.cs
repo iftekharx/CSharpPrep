@@ -8,7 +8,7 @@ namespace CSharpPrep
 {
     internal class RandomStuff
     {
-        static void Main(String[] args) {
+       /* static void Main(String[] args) {
             Random random = new Random();
 
             int num = random.Next(1, 7);
@@ -22,6 +22,6 @@ namespace CSharpPrep
 
 
             Console.ReadKey();
-        }
+        }*/
     }
 }
