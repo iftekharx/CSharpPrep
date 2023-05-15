@@ -8,7 +8,7 @@ namespace CSharpPrep
 {
     internal class MathStuff
     {
-        static void Main(String[] args) {
+       /* static void Main(String[] args) {
             double x = 3;
 
             double a = Math.Pow(x, 2);
@@ -35,6 +35,6 @@ namespace CSharpPrep
 
 
             Console.ReadKey();
-        }
+        }*/
     }
 }
