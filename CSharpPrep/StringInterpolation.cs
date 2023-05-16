@@ -8,7 +8,7 @@ namespace CSharpPrep
 {
     internal class StringInterpolation
     {
-        static void Main(String[] args) {
+       /* static void Main(String[] args) {
 
             String fName = "Bob";
             String lName = "Roberts";
@@ -19,6 +19,6 @@ namespace CSharpPrep
             Console.WriteLine($"You are {age, 10} years old!");
             Console.WriteLine($"You are {age,-10} years old!");
 
-        }
+        }*/
     }
 }
