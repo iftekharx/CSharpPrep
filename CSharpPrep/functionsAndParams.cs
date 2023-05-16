@@ -9,23 +9,23 @@ namespace CSharpPrep
 {
     internal class functionsAndParams
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             double total = CheckOut(3.99, 5.75, 15);
 
             Console.WriteLine(total);
 
-            double x;
-            double y;
+            int x;
+            int y;
             double result;
 
             try
             {
                 Console.Write("Enter number 1: ");
-                x = Convert.ToDouble(Console.ReadLine());
+                x = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Enter number 2: ");
-                y = Convert.ToDouble(Console.ReadLine());
+                y = Convert.ToInt32(Console.ReadLine());
 
                 result = x / y;
 
@@ -33,18 +33,27 @@ namespace CSharpPrep
 
 
             }
-            catch (FormatException e) {
+            catch (FormatException e)
+            {
 
                 Console.WriteLine("Enter only numbers please");
 
             }
-            catch (DivideByZeroException e) {
+            catch (DivideByZeroException e)
+            {
                 Console.WriteLine(e.ToString());
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.StackTrace);
+            }
+            finally {
+                Console.WriteLine("Thanks for using the app");
             }
 
             Console.ReadKey();
 
-        }
+        }*/
 
         static double CheckOut(params double[] prices) {
 
